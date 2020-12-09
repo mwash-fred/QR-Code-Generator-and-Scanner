@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "946802192439",
+    "firebase_url": "https://quick-park-e5805.firebaseio.com",
+    "project_id": "quick-park-e5805",
+    "storage_bucket": "quick-park-e5805.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946802192439:android:7c543bcdc4db57c86e8fb2",
+        "android_client_info": {
+          "package_name": "com.example.quickpark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946802192439-il0ficfgj535mco1clmia9jdsuppm2f8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFcgFghdFMOobWcG6A5F_HQY_FKXhPH7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946802192439-il0ficfgj535mco1clmia9jdsuppm2f8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
